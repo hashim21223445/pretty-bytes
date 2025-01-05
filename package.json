@@ -40,7 +40,7 @@
 		"localized"
 	],
 	"devDependencies": {
-		"ava": "^4.0.1",
+		"ava": "^6.2.0",
 		"tsd": "^0.31.1",
 		"xo": "^0.54.0"
 	}
